@@ -1,4 +1,4 @@
-# Papers referenced by various online courses.
+# Papers to read on Generative AI
 
 --
 
