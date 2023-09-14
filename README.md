@@ -9,3 +9,6 @@ https://arxiv.org/abs/1905.00537
 
 Measuring Massive Multitask Language Understanding<br>
 https://arxiv.org/abs/2009.03300
+
+Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them<br>
+https://arxiv.org/abs/2210.09261
