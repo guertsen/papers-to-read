@@ -6,3 +6,6 @@ https://arxiv.org/abs/1804.07461
 
 SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems<br>
 https://arxiv.org/abs/1905.00537
+
+Measuring Massive Multitask Language Understanding<br>
+https://arxiv.org/abs/2009.03300
