@@ -14,3 +14,6 @@ https://arxiv.org/abs/2009.03300
 
 Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them<br>
 https://arxiv.org/abs/2210.09261
+
+Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning<br>
+https://arxiv.org/abs/2303.15647
