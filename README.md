@@ -20,3 +20,6 @@ https://arxiv.org/abs/2303.15647
 
 LoRA: Low-Rank Adaptation of Large Language Models<br>
 https://arxiv.org/abs/2106.09685
+
+The Power of Scale for Parameter-Efficient Prompt Tuning<br>
+https://arxiv.org/abs/2104.08691
