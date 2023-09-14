@@ -17,3 +17,6 @@ https://arxiv.org/abs/2210.09261
 
 Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning<br>
 https://arxiv.org/abs/2303.15647
+
+LoRA: Low-Rank Adaptation of Large Language Models<br>
+https://arxiv.org/abs/2106.09685
