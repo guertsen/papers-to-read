@@ -1,5 +1,9 @@
 # Papers referenced by various online courses.
 
+1.
+Generative AI with Large Language Models<br>
+https://www.coursera.org/learn/generative-ai-with-llms/
+
 Scaling Instruction-Finetuned Language Models<br>
 https://arxiv.org/abs/2210.11416
 
