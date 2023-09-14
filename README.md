@@ -1,4 +1,4 @@
-# Papers referenced by vaarious online courses.
+# Papers referenced by various online courses.
 
 Scaling Instruction-Finetuned Language Models<br>
 https://arxiv.org/abs/2210.11416
