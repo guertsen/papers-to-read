@@ -1,5 +1,7 @@
 # Papers to read on Generative AI
 
+--
+
 Scaling Instruction-Finetuned Language Models<br>
 https://arxiv.org/abs/2210.11416
 
@@ -23,3 +25,28 @@ https://arxiv.org/abs/2106.09685
 
 The Power of Scale for Parameter-Efficient Prompt Tuning<br>
 https://arxiv.org/abs/2104.08691
+
+--
+
+--
+
+Training language models to follow instructions with human feedback
+
+Learning to summarize from human feedback
+
+Proximal Policy Optimization Algorithms
+
+Direct Preference Optimization: Your Language Model is Secretly a Reward Model
+
+Constitutional AI: Harmlessness from AI Feedback
+
+Chain-of-thought Prompting Elicits Reasoning in Large Language Models
+
+PAL: Program-aided Language Models
+
+ReAct: Synergizing Reasoning and Acting in Language Models
+
+LangChain Library (GitHub)
+
+Who Owns the Generative AI Platform?
+
