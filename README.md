@@ -21,11 +21,17 @@ BloombergGPT: A Large Language Model for Finance
 Scaling Instruction-Finetuned Language Models<br>
 https://arxiv.org/abs/2210.11416
 
+Introducing FLAN: More generalizable Language Models with Instruction Fine-Tuning
+
+HELM - Holistic Evaluation of Language Models
+
 GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding<br>
 https://arxiv.org/abs/1804.07461
 
 SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems<br>
 https://arxiv.org/abs/1905.00537
+
+ROUGE: A Package for Automatic Evaluation of Summaries
 
 Measuring Massive Multitask Language Understanding<br>
 https://arxiv.org/abs/2009.03300
@@ -36,39 +42,15 @@ https://arxiv.org/abs/2210.09261
 Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning<br>
 https://arxiv.org/abs/2303.15647
 
+On the Effectiveness of Parameter-Efficient Fine-Tuning
+
 LoRA: Low-Rank Adaptation of Large Language Models<br>
 https://arxiv.org/abs/2106.09685
 
-The Power of Scale for Parameter-Efficient Prompt Tuning<br>
-https://arxiv.org/abs/2104.08691
-
-----
-
-Scaling Instruction-Finetuned Language Models
-
-Introducing FLAN: More generalizable Language Models with Instruction Fine-Tuning
-
-HELM - Holistic Evaluation of Language Models
-
-General Language Understanding Evaluation (GLUE) benchmark
-
-SuperGLUE
-
-ROUGE: A Package for Automatic Evaluation of Summaries
-
-Measuring Massive Multitask Language Understanding (MMLU)
-
-BigBench-Hard - Beyond the Imitation Game: Quantifying and Extrapolating the Capabilities of Language Models
-
-Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning
-
-On the Effectiveness of Parameter-Efficient Fine-Tuning
-
-LoRA Low-Rank Adaptation of Large Language Models
-
 QLoRA: Efficient Finetuning of Quantized LLMs
 
-The Power of Scale for Parameter-Efficient Prompt Tuning
+The Power of Scale for Parameter-Efficient Prompt Tuning<br>
+https://arxiv.org/abs/2104.08691
 
 ----
 
