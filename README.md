@@ -28,6 +28,32 @@ https://arxiv.org/abs/2104.08691
 
 --
 
+Scaling Instruction-Finetuned Language Models
+
+Introducing FLAN: More generalizable Language Models with Instruction Fine-Tuning
+
+HELM - Holistic Evaluation of Language Models
+
+General Language Understanding Evaluation (GLUE) benchmark
+
+SuperGLUE
+
+ROUGE: A Package for Automatic Evaluation of Summaries
+
+Measuring Massive Multitask Language Understanding (MMLU)
+
+BigBench-Hard - Beyond the Imitation Game: Quantifying and Extrapolating the Capabilities of Language Models
+
+Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning
+
+On the Effectiveness of Parameter-Efficient Fine-Tuning
+
+LoRA Low-Rank Adaptation of Large Language Models
+
+QLoRA: Efficient Finetuning of Quantized LLMs
+
+The Power of Scale for Parameter-Efficient Prompt Tuning
+
 --
 
 Training language models to follow instructions with human feedback
