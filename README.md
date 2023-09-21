@@ -1,5 +1,11 @@
 # Papers to read on Generative AI
 
+Attention is All You Need
+
+BLOOM: BigScience 176B Model
+
+Vector Space Models
+
 Scaling Instruction-Finetuned Language Models<br>
 https://arxiv.org/abs/2210.11416
 
