@@ -4,7 +4,19 @@ Attention is All You Need
 
 BLOOM: BigScience 176B Model
 
-Vector Space Models
+Scaling Laws for Neural Language Models
+
+What Language Model Architecture and Pretraining Objective Work Best for Zero-Shot Generalization?
+
+LLaMA: Open and Efficient Foundation Language Models
+
+Language Models are Few-Shot Learners
+
+Training Compute-Optimal Large Language Models
+
+BloombergGPT: A Large Language Model for Finance
+
+----
 
 Scaling Instruction-Finetuned Language Models<br>
 https://arxiv.org/abs/2210.11416
@@ -30,7 +42,7 @@ https://arxiv.org/abs/2106.09685
 The Power of Scale for Parameter-Efficient Prompt Tuning<br>
 https://arxiv.org/abs/2104.08691
 
---
+----
 
 Scaling Instruction-Finetuned Language Models
 
@@ -58,7 +70,7 @@ QLoRA: Efficient Finetuning of Quantized LLMs
 
 The Power of Scale for Parameter-Efficient Prompt Tuning
 
---
+----
 
 Training language models to follow instructions with human feedback
 
